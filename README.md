@@ -22,9 +22,7 @@ A real-time accident detection system that leverages deep learning to identify a
    pip install -r requirements.txt  
    ```
 
-3. Place the required files:  
-   - `model.json`: Model architecture.  
-   - `model_weights.keras`: Pre-trained weights.  
+3. Place the required files:   
    - `demovid.mp4`: Input video for demo.  
 
 ## Usage  
