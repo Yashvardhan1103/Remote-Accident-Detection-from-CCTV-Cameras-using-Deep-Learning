@@ -42,7 +42,8 @@ A real-time accident detection system that leverages deep learning to identify a
 ├── main.py          # Entry point to start the application  
 ├── demo.py          # Handles video processing and predictions  
 ├── model.py         # Loads the model and predicts accidents 
-├── demovid.mp4      # Sample video for testing  
+├── demovid.mp4      # Sample video for testing
+├── code.ipynb       # Training the model and evaluating accuracy scores
 ├── requirements.txt # Python dependencies  
 ```
 
